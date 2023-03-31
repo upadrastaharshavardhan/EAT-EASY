@@ -1,4 +1,4 @@
-# EAT-EASY
+# Figma UI design for EAT EASY
 [DEMO video](https://user-images.githubusercontent.com/62492737/229030270-4b9e4a03-61b9-4c16-812a-fbfb698900f7.mp4)
 
 Screen shots
