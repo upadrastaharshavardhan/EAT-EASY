@@ -3,11 +3,11 @@
 
 Screen shots
 
-![home page](https://user-images.githubusercontent.com/62492737/229030371-95d9d3ec-ba67-4431-a102-187a5a42ecb6.png)   ![login page](https://user-images.githubusercontent.com/62492737/229030379-dc5485fb-5ad5-4ed3-af04-0f1fbacd00ea.png)
+![home page](https://user-images.githubusercontent.com/62492737/229030371-95d9d3ec-ba67-4431-a102-187a5a42ecb6.png)   ![login page](https://user-images.githubusercontent.com/62492737/229030379-dc5485fb-5ad5-4ed3-af04-0f1fbacd00ea.png) ![3](https://user-images.githubusercontent.com/62492737/229030436-9ddb2994-0194-48fc-95e5-c234c5a61e58.png)
 
 
 
-![3](https://user-images.githubusercontent.com/62492737/229030436-9ddb2994-0194-48fc-95e5-c234c5a61e58.png)
+
 
 ![4](https://user-images.githubusercontent.com/62492737/229030440-6bf87687-663f-4f02-929a-2d366e201ecb.png)
 
